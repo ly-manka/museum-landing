@@ -16,3 +16,27 @@ This is a responsive landing page for a museum, designed to showcase exhibitions
 
 ## Mockup
 - [Design mockup](https://www.figma.com/file/cRBCqE06cDrY3s4jX7h3iY/%D0%9D%D0%90%D0%9C%D0%A3-(Edit)?node-id=0%3A1)
+
+## How to Run the Project Locally
+### Requirements
+- **Node.js** v20.18.3
+- **npm** v10.8.2
+- Git
+- Browser
+
+### Installation Steps
+1. **Clone the repository**  
+   ```sh
+   git clone https://github.com/ly-manka/museum-landing.git
+2. **Navigate into the project folder**
+3. **Install dependencies**  
+   ```sh
+   npm install
+4. **Run the project**  
+   ```sh
+   npm start
+5. **Open in Browser**
+   
+   Once the project is running, open your browser and go to:
+   ```sh
+   http://localhost:8080/
